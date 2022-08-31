@@ -1,20 +1,11 @@
 
-# MDST Tutorials - W22
+# MDST Tutorials - F22
 
 _Important Dates_
 
-- Live tutorials:
-	- Sunday 1/22, 1/29 - 12-2pm
-- Office hours:
-	- Saturday 1/15 - 12-2pm
-        - Thursday 1/27 6-7pm
-	- Monday 1/31 7-8pm
-- Checkpoints due:
-	- Tuesday 2/1 at 11:59pm
+Live tutorials will be offered on Sept.11th and Sept.18th and office hours (both in-person and virtual) will be available on some week nights. Check our [tutorials page](https://www.mdst.club/tutorials) for the most up-to-date time and location!
 
-See our [calendar](https://www.mdst.club/agenda) for meeting dates and location!
-
-If you have questions and can't make it to office hours, send an email to Nishka at <nishkam@umich.edu>. 
+If you have questions and can't make it to office hours, send an email to Casper at <casperg@umich.edu>. 
 
 ---
 **Tutorial 1**
@@ -30,12 +21,4 @@ If you have questions and can't make it to office hours, send an email to Nishka
 
 **Submitting**
 
-Make sure your git repo has the following setup _and nothing else_:
-
-- README.md
-- .gitignore [optional]
-- checkpoint1/
-	- hello.txt
-- checkpoint2/
-	- checkpoint2.ipynb
-
+(CHANGE THIS)
