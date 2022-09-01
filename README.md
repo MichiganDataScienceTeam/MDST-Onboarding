@@ -1,24 +1,48 @@
-
 # MDST Tutorials - F22
 
-_Important Dates_
+## Setup
 
-Live tutorials will be offered on Sept.11th and Sept.18th and office hours (both in-person and virtual) will be available on some week nights. Check our [tutorials page](https://www.mdst.club/tutorials) for the most up-to-date time and location!
+If you haven't already, fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSejP37JodiO97Kf5hL7Hr-KfC8fbaeyEgdg-342Tf9bIzrmmA/viewform) and join our mailing list. This will keep you up-to-date on the club.
 
-If you have questions and can't make it to office hours, send an email to Casper at <casperg@umich.edu>. 
+First, follow the general setup [guide](https://docs.google.com/document/d/17AOCdbztv6G0t5cha2_9buWi-MrCUS0vN20rbpKg-GI/edit?usp=sharing). 
 
----
-**Tutorial 1**
+Then, complete the Git setup [guide](https://drive.google.com/file/d/13wFfAXnACuLKzkYwP-LSy49PQ_OnXpfA/view?usp=sharing). 
 
-1. Complete the steps in checkpoint 1 to set up your file system, git repo, etc.
-> Update your git regularly as you work on the checkpoints!
+For most people, this is the *hardest* part of the tutorial! If you feel frustrated, know it is normal. Come see us at tutorial sections or office hours and we will help you sort it out.
 
-**Tutorial 2**
+## Tutorials & Checkpoints 
 
-3. Complete the exercises in `checkpoint2.ipynb`
-> Make sure the file you submit contains all the outputs and graphs (i.e. run all cells before you save)
----
+First, fill out `about_me.txt`.
 
-**Submitting**
+Then start with `tutorial0` and `checkpoint0` in the `tutorial0` folder. The checkpoint is designed so you can either complete it as you go through the tutorial or tackle it once you have gone through the entire tutorial. 
 
-(CHANGE THIS)
+Proceed to `tutorial1` and `checkpoint1` in the `tutorial1` folder. We recommend working through the tutorial before attempting the checkpoint. 
+
+The two challenges in the `Optional Challenges` folder are completely optional. You will find instructions about them in the submission section.
+
+Take your time and start early, there is a lot to learn!
+
+## Live Tutorials & Office Hours
+
+These checkpoints are *not* meant to be selective. Their sole purpose is to give you sufficient foundational knowledge about Python and some important packages so you can start contributing to a project. 
+
+The definition of success for us is to have everyone who begins the tutorials finish them. Thus, we will offer support in two ways:
+
+- Sunday Tutorials: Live tutorials will be held on 9/11 and 9/18 (time and location TBA). These will be a combination of us going over sections of the tutorials as requested by new members and hosting office hours. 
+
+- Weekday Office Hours: We will be offering two to three office hours on weekdays (time TBA) between now and the submission deadline. We will offer these both in-person (tentatively in East Hall (Math) Atrium) and on zoom. 
+
+Join the mailing list and monitor the tutorials [page](https://www.mdst.club/tutorials) on our website to make sure you hear about upcoming tutorials and office hours.
+
+## Submission
+
+A submission form where you will also indicate your project preferences will be released via both email and our [website](mdst.club) in the upcoming weeks. The submission deadline is tentatively set at `11:59 PM, 9/20`. You *absolutely* must submit the form by the deadline to work on a project this semester.
+
+In your submission, we are looking for:
+- [REQUIRED] checkpoint 0 and checkpoint 1. These are assessed by completion and effort. These materials are non-trivial and it is totally fine to make some mistakes.
+- [OPTIONAL] ML Challenge and Stats Challenge. These are assessed by merit. We usually put new members on beginning projects for their very first semester but you may want to work on advanced projects right away if you are experienced with data science. You will be able to demonstrate said experience in these two challenges. You can choose to complete one or both of them.
+
+It is strongly recommended for you to complete at least one challenge if the project you are most interested in is labelled as an advanced project. This will give you the best chance to be placed on that team. 
+
+## Contact
+If you have any questions, concerns, or bug reports, don't hesitate to contact Casper at casperg@umich.edu. 
