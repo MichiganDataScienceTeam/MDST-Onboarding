@@ -1,4 +1,4 @@
-order_id,shop_id,user_id,order_amount,total_items,payment_method,created_at
+order_id,shop_id,user_id,order_value,total_items,payment_method,created_at
 1,53,746,224,2,cash,2017-03-13 12:36:56
 2,92,925,90,1,cash,2017-03-03 17:38:52
 3,44,861,144,1,cash,2017-03-14 4:23:56
