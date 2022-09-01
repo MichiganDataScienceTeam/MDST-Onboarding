@@ -6,7 +6,7 @@ If you haven't already, fill out this [form](https://docs.google.com/forms/d/e/1
 
 First, follow the general setup [guide](https://docs.google.com/document/d/17AOCdbztv6G0t5cha2_9buWi-MrCUS0vN20rbpKg-GI/edit?usp=sharing). 
 
-Then, complete the Git setup [guide](https://drive.google.com/file/d/13wFfAXnACuLKzkYwP-LSy49PQ_OnXpfA/view?usp=sharing). 
+Then, complete the Git setup [guide](https://docs.google.com/document/d/1CxWm1qlnw_Q9UDuDOT-Iakxpr3tHsh3TaVTGBKV9po8/edit?usp=sharing). 
 
 For most people, this is the *hardest* part of the tutorial! If you feel frustrated, know it is normal. Come see us at tutorial sections or office hours and we will help you sort it out.
 
