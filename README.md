@@ -28,15 +28,15 @@ These checkpoints are *not* meant to be selective. Their sole purpose is to give
 
 The definition of success for us is to have everyone who begins the tutorials finish them. Thus, we will offer support in two ways:
 
-- Sunday Tutorials: Live tutorials will be held on 9/11 and 9/18 (time and location TBA). These will be a combination of us going over sections of the tutorials as requested by new members and hosting office hours. 
+- Sunday Tutorials: Live tutorials will be held on 9/11 and 9/18 from 12 to 3 in Mason Hall. We do not have rooms booked so watch your email for the exact room number closer to the start. These will be a combination of us going over sections of the tutorials as requested by new members and hosting office hours. 
 
-- Weekday Office Hours: We will be offering two to three office hours on weekdays (time TBA) between now and the submission deadline. We will offer these both in-person (tentatively in East Hall (Math) Atrium) and on zoom. 
+- Weekday Office Hours: We will be offering office hours from 7 to 9 PM on 9/7, 9/14, and 9/21. We will offer these both in-person in East Hall (Math) Atrium and on zoom (link will be posted on the website). 
 
 Join the mailing list and monitor the tutorials [page](https://www.mdst.club/tutorials) on our website to make sure you hear about upcoming tutorials and office hours.
 
 ## Submission
 
-A submission form where you will also indicate your project preferences will be released via both email and our [website](mdst.club) in the upcoming weeks. The submission deadline is tentatively set at `11:59 PM, 9/20`. You *absolutely* must submit the form by the deadline to work on a project this semester.
+A submission form where you will also indicate your project preferences will be released via both email and our [website](mdst.club) in the upcoming weeks. The submission deadline is tentatively set at `11:59 PM, 9/25`. You *absolutely* must submit the form by the deadline to work on a project this semester.
 
 In your submission, we are looking for:
 - [REQUIRED] checkpoint 0 and checkpoint 1. These are assessed by completion and effort. These materials are non-trivial and it is totally fine to make some mistakes.
