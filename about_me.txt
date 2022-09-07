@@ -1,3 +1,5 @@
 Introduce yourself in this file!
 
 Tell us your name, year, school, major (if you are undecided, write down the frontrunners), and a fun fact!
+
+My name is Weston and I am a second year student at UM majoring in CE. I might switch to CSE. A fun fact about me is I am currently learning Korean.
