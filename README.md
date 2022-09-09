@@ -8,6 +8,8 @@ First, follow the general setup [guide](https://docs.google.com/document/d/17AOC
 
 Then, complete the Git setup [guide](https://docs.google.com/document/d/1pq42R2xr_yoyhyzWE0ugReHgEKgwLdjrJR4mT3_CQEo/edit?usp=sharing). 
 
+If you are experiencing difficulty with the Git setup, you can temporarily skip it and get started on the tutorials and checkpoints first.
+
 For most people, this is the *hardest* part of the tutorial! If you feel frustrated, know it is normal. Come see us at tutorial sections or office hours and we will help you sort it out.
 
 ## Tutorials & Checkpoints 
