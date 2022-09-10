@@ -30,7 +30,7 @@ These checkpoints are *not* meant to be selective. Their sole purpose is to give
 
 The definition of success for us is to have everyone who begins the tutorials finish them. Thus, we will offer support in two ways:
 
-- Sunday Tutorials: Live tutorials will be held on 9/11 and 9/18 from 12 to 3 in Mason Hall. We do not have rooms booked so watch your email for the exact room number closer to the start. These will be a combination of us going over sections of the tutorials as requested by new members and hosting office hours. 
+- Sunday Tutorials: Live tutorials will be held from 12 to 3 on 9/11 on [Zoom](https://umich.zoom.us/my/casperg?pwd=R1oxNzJ6V0FVSVRkQXBXbmNzdG9tUT09) and on 9/18 in Mason Hall. We do not have rooms booked so watch your email for the exact room number closer to the start. These will be a combination of us going over sections of the tutorials as requested by new members and hosting office hours. 
 
 - Weekday Office Hours: We will be offering office hours from 7 to 9 PM on 9/7, 9/14, and 9/21. We will offer these both in-person in East Hall (Math) Atrium and on zoom (link will be posted on the website). 
 
