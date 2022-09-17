@@ -4,7 +4,9 @@
 
 If you haven't already, fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSejP37JodiO97Kf5hL7Hr-KfC8fbaeyEgdg-342Tf9bIzrmmA/viewform) and join our mailing list. This will keep you up-to-date on the club.
 
-First, follow the general setup [guide](https://docs.google.com/document/d/17AOCdbztv6G0t5cha2_9buWi-MrCUS0vN20rbpKg-GI/edit?usp=sharing). 
+First, download the files in this repo by clicking `Code` (the green button near the top) -> `Download ZIP` and unzip the files into a folder. You can of course also clone or fork the repo if you have experience with Git.
+
+Second, follow the general setup [guide](https://docs.google.com/document/d/17AOCdbztv6G0t5cha2_9buWi-MrCUS0vN20rbpKg-GI/edit?usp=sharing). 
 
 Then, complete the Git setup [guide](https://docs.google.com/document/d/1pq42R2xr_yoyhyzWE0ugReHgEKgwLdjrJR4mT3_CQEo/edit?usp=sharing). 
 
