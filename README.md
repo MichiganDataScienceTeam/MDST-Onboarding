@@ -2,7 +2,7 @@
 
 ## Setup
 
-1. If you haven't already, fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSejP37JodiO97Kf5hL7Hr-KfC8fbaeyEgdg-342Tf9bIzrmmA/viewform) and join our mailing list. This will keep you up-to-date on the club.
+1. If you haven't already, fill out this [form](https://forms.gle/fM6oA6qYSJL5p4hv6) and join our mailing list. This will keep you up-to-date on the club.
 
 2. Download the files in this repo by clicking `Code` (the green button near the top) -> `Download ZIP` and unzip the files into a folder. You can of course also fork the repo if you have experience with Git.
 
