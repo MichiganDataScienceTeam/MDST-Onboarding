@@ -1,4 +1,4 @@
-# MDST Tutorials - F22
+# MDST Tutorials - W23
 
 ## Setup
 
