@@ -28,7 +28,7 @@ The two challenges in the `Optional Challenges` folder are completely optional. 
 
 The `Data-Visualization` folder contains materials for those who want to get a head start. `pandas.ipynb` is a very brief introduction to internal Pandas data visualization tools. The `AnatomyofMatplotlib` folder contains a comprehensive tutorial for the Matplotlib library, which most beginner projects use and is foundational to other data visualization packages such as `seaborn`.
 
-## Live Tutorials & Office Hours
+## How we are supporting you
 
 These checkpoints are _not_ meant to be selective. Their sole purpose is to give you sufficient foundational knowledge about Python and some important packages so you can start contributing to a project.
 
@@ -37,6 +37,10 @@ The definition of success for us is to have everyone who begins the tutorials fi
 - Sunday Tutorials: Live tutorials will be held from 12 to 3 on 9/3 and 9/10, in-person only, at fishbowl classrooms. These are the stand-alone rooms in fishbowl in Mason Hall. Tutorials will be a combination of short presentations and Q&A.
 
 - Weekday Office Hours: We will be offering office hours from 7 to 9 PM on 9/5, 9/12, and 9/14. We will offer these in-person at the third floor of UGLI.
+
+Neither tutorials nor office hours are mandatory.
+
+We have also created a [Piazza forum](https://piazza.com/umich/fall2023/mdst101) where you can ask questions.
 
 Join the mailing list and monitor the join [page](https://www.mdst.club/join) for updates.
 
