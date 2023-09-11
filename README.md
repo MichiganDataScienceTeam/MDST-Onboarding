@@ -46,10 +46,9 @@ Join the mailing list and monitor the join [page](https://www.mdst.club/join) fo
 
 ## Submission
 
-A submission form where you will also indicate your project preferences will be released via both email and our [website](mdst.club) in the upcoming weeks. The submission deadline is tentatively `11:59 PM, 9/14`. You _absolutely_ must submit the form by the deadline to work on a project this semester.
+Signup for MDST projects [here](https://forms.gle/PEA3MGgBuGxyKzM89), due 9/14/2023 at 11:59 PM. You _absolutely_ must submit the form by the deadline to work on a project this semester.
 
-In your submission, we are looking for:
-
+In your submission, make sure to select the option saying you are new member, and submit a link to your repository containing all your tutorial checkpoints. We are looking for:
 - [**REQUIRED**] checkpoint 0 and checkpoint 1. These are assessed by completion and effort, not accuracy.
 - [**OPTIONAL**] ML Challenge and Stats Challenge. These are assessed by merit. We usually put new members on beginning projects for their very first semester but you may want to work on advanced projects right away if you are experienced with data science. You will be able to demonstrate said experience in these two challenges. You can choose to complete one or both of them.
 
