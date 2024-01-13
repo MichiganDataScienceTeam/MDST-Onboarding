@@ -1,8 +1,8 @@
-# MDST Tutorials - F23
+# MDST Tutorials - W24
 
 ## Setup
 
-1. If you haven't already, fill out this [form](https://forms.gle/U9oGX52cSzTVtoNp7) and join our mailing list. This will keep you up-to-date on the club.
+1. If you haven't already, fill out this [form](https://forms.gle/pcpfjMwrXobyvn9N9) and join our mailing list. This will keep you up-to-date on the club.
 
 2. Download the files in this repo by clicking `Code` (the green button near the top) -> `Download ZIP` and unzip the files into a folder. You can of course also fork the repo if you have experience with Git.
 
@@ -34,21 +34,22 @@ These checkpoints are _not_ meant to be selective. Their sole purpose is to give
 
 The definition of success for us is to have everyone who begins the tutorials finish them. Thus, we will offer support in two ways:
 
-- Sunday Tutorials: Live tutorials will be held from 12 to 3 on 9/3 and 9/10, in-person only, at fishbowl classrooms. These are the stand-alone rooms in fishbowl in Mason Hall. Tutorials will be a combination of short presentations and Q&A.
+- Sunday Tutorials: Live tutorials will be held from 12 to 3 on 1/21 and 1/28, in-person only, at one of the fishbowl classrooms. These are the stand-alone rooms in fishbowl in Mason Hall. Tutorials will be a combination of short presentations and Q&A.
 
-- Weekday Office Hours: We will be offering office hours from 7 to 9 PM on 9/5, 9/12, and 9/14. We will offer these in-person at the third floor of UGLI.
+- Weekday Office Hours: We will be offering office hours from 7 to 9 PM on 1/16, 1/23, 1/30. We will offer these in-person at the third floor of UGLI.
 
 Neither tutorials nor office hours are mandatory.
 
-We have also created a [Piazza forum](https://piazza.com/umich/fall2023/mdst101) where you can ask questions.
+We have also created a [Piazza forum](https://piazza.com/umich/winter2024/mdst101) where you can ask questions.
 
 Join the mailing list and monitor the join [page](https://www.mdst.club/join) for updates.
 
 ## Submission
 
-Signup for MDST projects [here](https://forms.gle/PEA3MGgBuGxyKzM89), due 9/14/2023 at 11:59 PM. You _absolutely_ must submit the form by the deadline to work on a project this semester.
+You will submit your tutorial materials when you indicate your project preferences. This form will come out in the coming weeks.
 
 In your submission, make sure to select the option saying you are new a member, and submit the link to your repository containing all your tutorial checkpoints. We are looking for:
+
 - [**REQUIRED**] checkpoint 0 and checkpoint 1. These are assessed by completion and effort, not accuracy.
 - [**OPTIONAL**] ML Challenge and Stats Challenge. These are assessed by merit. We usually put new members on beginning projects for their very first semester but you may want to work on advanced projects right away if you are experienced with data science. You will be able to demonstrate said experience in these two challenges. You can choose to complete one or both of them.
 
@@ -56,4 +57,6 @@ It is strongly recommended for you to complete at least one challenge if the pro
 
 ## Contact
 
-If you have any questions, concerns, or bug reports, don't hesitate to contact Casper at casperg@umich.edu.
+All technical or logistical questions MUST be posted on Piazza. We will not answer those questions over email.
+
+If you have a personal question, email us at mdst-education@umich.edu.
