@@ -60,3 +60,20 @@ It is strongly recommended for you to complete at least one challenge if the pro
 All technical or logistical questions MUST be posted on Piazza. We will not answer those questions over email.
 
 If you have a personal question, email us at mdst-education@umich.edu.
+
+## Official Documentations
+A list of relevent python libraries that are used extensively throughout the checkpoints, challenges, MDST projects, and beyond. 
+
+Numpy: https://numpy.org/doc/stable/
+
+Pandas: https://pandas.pydata.org/docs/
+
+Matplotlib: https://matplotlib.org/stable/gallery/index
+
+Seaborn: https://seaborn.pydata.org/tutorial.html
+
+Scikit-Learn: https://scikit-learn.org/stable/user_guide.html
+
+PyTorch: https://pytorch.org/docs/stable/index.html
+
+Tensorflow: https://www.tensorflow.org/learn
