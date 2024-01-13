@@ -46,7 +46,7 @@ Join the mailing list and monitor the join [page](https://www.mdst.club/join) fo
 
 ## Submission
 
-You will submit your tutorial materials when you indicate your project preferences. This form will come out in the coming weeks.
+The tutorial submission form will be released soon.
 
 In your submission, make sure to select the option saying you are new a member, and submit the link to your repository containing all your tutorial checkpoints. We are looking for:
 
