@@ -40,7 +40,7 @@ The definition of success for us is to have everyone who begins the tutorials fi
 
 Neither tutorials nor office hours are mandatory.
 
-We have also created a [Piazza forum](https://piazza.com/umich/winter2024/mdst101) where you can ask questions.
+We have also created a [forum](https://edstem.org/us/join/6PXxzF) where you can ask questions.
 
 Join the mailing list and monitor the join [page](https://www.mdst.club/join) for updates.
 
