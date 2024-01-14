@@ -70,10 +70,4 @@ Pandas: https://pandas.pydata.org/docs/
 
 Matplotlib: https://matplotlib.org/stable/gallery/index
 
-Seaborn: https://seaborn.pydata.org/tutorial.html
-
 Scikit-Learn: https://scikit-learn.org/stable/user_guide.html
-
-PyTorch: https://pytorch.org/docs/stable/index.html
-
-Tensorflow: https://www.tensorflow.org/learn
