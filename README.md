@@ -40,7 +40,7 @@ The definition of success for us is to have everyone who begins the tutorials fi
 
 Neither tutorials nor office hours are mandatory.
 
-We have also created a [forum](https://edstem.org/us/join/6PXxzF) where you can ask questions.
+We have also created a [forum](https://edstem.org/us/join/jxVrDG) where you can ask questions.
 
 Join the mailing list and monitor the join [page](https://www.mdst.club/join) for updates.
 
@@ -57,7 +57,7 @@ It is strongly recommended for you to complete at least one challenge if the pro
 
 ## Contact
 
-All technical or logistical questions MUST be posted on Piazza. We will not answer those questions over email.
+All technical or logistical questions MUST be posted on the ED forum. We will not answer those questions over email.
 
 If you have a personal question, email us at mdst-education@umich.edu.
 
