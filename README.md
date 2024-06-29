@@ -2,11 +2,13 @@
 
 ## Setup
 
+We have our centralized onboarding resources [here](https://mdst-club.notion.site/MDST-Onboarding-3d1b3591dd224115a548325a7d66a723)
+
 1. If you haven't already, fill out this [form](https://forms.gle/pcpfjMwrXobyvn9N9) and join our mailing list. This will keep you up-to-date on the club.
 
 2. Download the files in this repo by clicking `Code` (the green button near the top) -> `Download ZIP` and unzip the files into a folder. You can of course also fork the repo if you have experience with Git.
 
-3. Follow the general setup [guide](https://www.notion.so/mdst-club/MDST-Onboarding-3d1b3591dd224115a548325a7d66a723?p=f801e1c932e440ab8387330b41fcbe77&pm=c).
+3. Follow the general setup [guide](https://mdst-club.notion.site/General-Setup-Guide-f801e1c932e440ab8387330b41fcbe77).
 
 4. Complete the Git setup [guide](https://www.notion.so/mdst-club/Git-Setup-Guide-fa635f302a74491fb018892cd1da4697).
 
