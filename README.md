@@ -6,7 +6,7 @@ Check out our centralized onboarding resource website [here](https://mdst-club.n
 
 1. If you haven't already, fill out this [form](https://forms.gle/pcpfjMwrXobyvn9N9) and join our mailing list. This will keep you up-to-date on the club.
 
-2. Download the files in this repo by clicking `Code` (the green button near the top) -> `Download ZIP` and unzip the files into a folder. You can of course also fork the repo if you have experience with Git.
+2. Download the files in this repo by clicking `Code` (the green button near the top) -> `Download ZIP` and unzip the files into a folder. You can of course also fork the repo if you have experience with Git
 
 3. Follow the general setup [guide](https://mdst-club.notion.site/General-Setup-Guide-f801e1c932e440ab8387330b41fcbe77).
 
