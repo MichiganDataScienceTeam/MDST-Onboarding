@@ -1,8 +1,8 @@
-# MDST Tutorials - W24
+# MDST Tutorials - FA24
 
 ## Setup
 
-We have our centralized onboarding resources [here](https://mdst-club.notion.site/MDST-Onboarding-3d1b3591dd224115a548325a7d66a723)
+Check out our centralized onboarding resource website [here](https://mdst-club.notion.site/MDST-Onboarding-3d1b3591dd224115a548325a7d66a723)!
 
 1. If you haven't already, fill out this [form](https://forms.gle/pcpfjMwrXobyvn9N9) and join our mailing list. This will keep you up-to-date on the club.
 
@@ -36,9 +36,9 @@ These checkpoints are _not_ meant to be selective. Their sole purpose is to give
 
 The definition of success for us is to have everyone who begins the tutorials finish them. Thus, we will offer support in two ways:
 
-- Sunday Tutorials: Live tutorials will be held from 12 to 3 on 1/21 and 1/28, in-person only, at one of the fishbowl classrooms. These are the stand-alone rooms in fishbowl in Mason Hall. Tutorials will be a combination of short presentations and Q&A.
+-   Sunday Tutorials: Live tutorials will be held from 12 to 3 on 1/21 and 1/28, in-person only, at one of the fishbowl classrooms. These are the stand-alone rooms in fishbowl in Mason Hall. Tutorials will be a combination of short presentations and Q&A.
 
-- Weekday Office Hours: We will be offering office hours from 7 to 9 PM on 1/16, 1/23, 1/30. We will offer these in-person at the third floor of UGLI.
+-   Weekday Office Hours: We will be offering office hours from 7 to 9 PM on 1/16, 1/23, 1/30. We will offer these in-person at the third floor of UGLI.
 
 Neither tutorials nor office hours are mandatory.
 
@@ -52,8 +52,8 @@ The tutorial submission form will be released soon.
 
 In your submission, make sure to select the option saying you are new a member, and submit the link to your repository containing all your tutorial checkpoints. We are looking for:
 
-- [**REQUIRED**] checkpoint 0 and checkpoint 1. These are assessed by completion and effort, not accuracy.
-- [**OPTIONAL**] ML Challenge and Stats Challenge. These are assessed by merit. We usually put new members on beginning projects for their very first semester but you may want to work on advanced projects right away if you are experienced with data science. You will be able to demonstrate said experience in these two challenges. You can choose to complete one or both of them.
+-   [**REQUIRED**] checkpoint 0 and checkpoint 1. These are assessed by completion and effort, not accuracy.
+-   [**OPTIONAL**] ML Challenge and Stats Challenge. These are assessed by merit. We usually put new members on beginning projects for their very first semester but you may want to work on advanced projects right away if you are experienced with data science. You will be able to demonstrate said experience in these two challenges. You can choose to complete one or both of them.
 
 It is strongly recommended for you to complete at least one challenge if the project you are most interested in is labelled as an advanced project. This will give you the best chance to be placed on that team.
 
@@ -64,7 +64,8 @@ All technical or logistical questions MUST be posted on the ED forum. We will no
 If you have a personal question, email us at mdst-education@umich.edu.
 
 ## Official Documentations
-A list of relevent python libraries that are used extensively throughout the checkpoints, challenges, MDST projects, and beyond. 
+
+A list of relevent python libraries that are used extensively throughout the checkpoints, challenges, MDST projects, and beyond.
 
 Numpy: https://numpy.org/doc/stable/
 
