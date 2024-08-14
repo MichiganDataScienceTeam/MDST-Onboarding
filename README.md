@@ -2,17 +2,24 @@
 
 ## Setup
 
-Check out our centralized onboarding resource website [here](https://mdst-club.notion.site/MDST-Onboarding-3d1b3591dd224115a548325a7d66a723)!
+*** Check out our centralized onboarding resource website [here](https://mdst-club.notion.site/MDST-Onboarding-3d1b3591dd224115a548325a7d66a723)! ***
 
-1. If you haven't already, fill out this [form](https://forms.gle/pcpfjMwrXobyvn9N9) and join our mailing list. This will keep you up-to-date on the club.
+If you haven't already, fill out this [form](https://forms.gle/pcpfjMwrXobyvn9N9) and join our mailing list. This will keep you up-to-date on the club.
 
-2. Download the files in this repo by clicking `Code` (the green button near the top) -> `Download ZIP` and unzip the files into a folder. You can of course also fork the repo if you have experience with Git
 
-3. Follow the general setup [guide](https://mdst-club.notion.site/General-Setup-Guide-f801e1c932e440ab8387330b41fcbe77).
+1. Download the files in this repo by clicking `Code` (the green button near the top) -> `Download ZIP` and unzip the files into a folder. You can of course also fork the repo if you have experience with Git. 
 
-4. Complete the Git setup [guide](https://www.notion.so/mdst-club/Git-Setup-Guide-fa635f302a74491fb018892cd1da4697).
+2. Follow the general setup [guide](https://mdst-club.notion.site/General-Setup-Guide-f801e1c932e440ab8387330b41fcbe77).
 
-For most people, this is the _hardest_ part of the tutorial! If you feel frustrated, know it is normal. Come see us at tutorials or office hours and we will help you out.
+3. Complete the Git setup [guide](https://www.notion.so/mdst-club/Git-Setup-Guide-fa635f302a74491fb018892cd1da4697).
+
+
+Workflow Explained:
+Downloading relevant files to your machine(1) -> Complete setup and start working on tutorials/checkpoints(2) -> Using git to push your code to GitHub, completing your submission(3)
+
+
+
+For most people, (3) is the _hardest_ part of the tutorial! If you feel frustrated, know it is normal. Come see us at tutorials or office hours and we will help you out.
 
 ### What do I do if I cannot get the setup working in time?
 
@@ -26,7 +33,7 @@ If you have trouble with the Git setup, you can upload your files to Git by goin
 
 Get started with `tutorial0` and `checkpoint0` in the `tutorial0` folder and then move on to `tutorial1` and `checkpoint1` in the `tutorial1` folder. We recommend working through each tutorial before attempting the corresponding checkpoint.
 
-The two challenges in the `Optional Challenges` folder are completely optional. You will find instructions about them in the submission section.
+The challenges in the `Optional Challenges` folder are completely optional. You will find instructions about them in the submission section.
 
 The `Data-Visualization` folder contains materials for those who want to get a head start. `pandas.ipynb` is a very brief introduction to internal Pandas data visualization tools. The `AnatomyofMatplotlib` folder contains a comprehensive tutorial for the Matplotlib library, which most beginner projects use and is foundational to other data visualization packages such as `seaborn`.
 
@@ -53,7 +60,8 @@ The tutorial submission form will be released soon.
 In your submission, make sure to select the option saying you are new a member, and submit the link to your repository containing all your tutorial checkpoints. We are looking for:
 
 -   [**REQUIRED**] checkpoint 0 and checkpoint 1. These are assessed by completion and effort, not accuracy.
--   [**OPTIONAL**] ML Challenge and Stats Challenge. These are assessed by merit. We usually put new members on beginning projects for their very first semester but you may want to work on advanced projects right away if you are experienced with data science. You will be able to demonstrate said experience in these two challenges. You can choose to complete one or both of them.
+-   [**OPTIONAL**] There are three challenges available to you: Machine Learning, Deep Learning, and RvF. These are assessed by merit. We usually put new members on beginning projects for their very first semester but you may want to work on advanced projects right away if you are experienced with data science. You will be able to demonstrate said experience in these challenges. You can choose to complete any one or multiple of them. 
+
 
 It is strongly recommended for you to complete at least one challenge if the project you are most interested in is labelled as an advanced project. This will give you the best chance to be placed on that team.
 
