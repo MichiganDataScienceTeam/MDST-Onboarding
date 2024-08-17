@@ -54,8 +54,6 @@ Neither tutorials nor office hours are mandatory.
 
 We have also created a [forum](https://edstem.org/us/join/jxVrDG) where you can ask questions.
 
-Join the mailing list and monitor the join [page](https://www.mdst.club/join) for updates.
-
 ## Submission
 
 The tutorial submission form will be released soon.
