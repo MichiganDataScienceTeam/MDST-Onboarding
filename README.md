@@ -1,3 +1,4 @@
+![header](https://github.com/MichiganDataScienceTeam/MDST-Tutorials/blob/main/asset/header.png?raw=true)
 # MDST Tutorials - FA24
 
 ## Setup
@@ -43,15 +44,15 @@ These checkpoints are _not_ meant to be selective. Their sole purpose is to give
 
 The definition of success for us is to have everyone who begins the tutorials finish them. Thus, we will offer support in two ways:
 
--   Sunday Tutorials: Live tutorials will be held from 12 to 3 on 1/21 and 1/28, in-person only, at one of the fishbowl classrooms. These are the stand-alone rooms in fishbowl in Mason Hall. Tutorials will be a combination of short presentations and Q&A.
+-   Tutorials: This year we will have one single live tutorial introducing the Command Line, Python, and its related packages. The Tutorial will be a combination of short presentations and Q&A.
 
--   Weekday Office Hours: We will be offering office hours from 7 to 9 PM on 1/16, 1/23, 1/30. We will offer these in-person at the third floor of UGLI.
+-  Office Hours: We will be offering 2 office hours in-person for you to come ask questions and receive feedbacks.
+
+The exact date, time, and location of the tutorials and office hours can be found in the onboarding resource website [here](https://mdst-club.notion.site/MDST-Onboarding-3d1b3591dd224115a548325a7d66a723)
 
 Neither tutorials nor office hours are mandatory.
 
 We have also created a [forum](https://edstem.org/us/join/jxVrDG) where you can ask questions.
-
-Join the mailing list and monitor the join [page](https://www.mdst.club/join) for updates.
 
 ## Submission
 
