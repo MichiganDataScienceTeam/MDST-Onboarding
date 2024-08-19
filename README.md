@@ -1,34 +1,31 @@
 ![header](https://github.com/MichiganDataScienceTeam/MDST-Tutorials/blob/main/asset/header.png?raw=true)
+
 # MDST Tutorials - FA24
+
+Check out our onboarding website with centralized resources [here](https://mdst-club.notion.site/MDST-Onboarding-3d1b3591dd224115a548325a7d66a723)!
 
 ## Setup
 
-*** Check out our centralized onboarding resource website [here](https://mdst-club.notion.site/MDST-Onboarding-3d1b3591dd224115a548325a7d66a723)! ***
-
 If you haven't already, fill out this [form](https://forms.gle/pcpfjMwrXobyvn9N9) and join our mailing list. This will keep you up-to-date on the club.
 
-
-1. Download the files in this repo by clicking `Code` (the green button near the top) -> `Download ZIP` and unzip the files into a folder. You can of course also fork the repo if you have experience with Git. 
+1. Download the files in this repo by clicking `Code` (the green button near the top) -> `Download ZIP` and unzip the files into a folder. You can of course also fork the repo if you have experience with Git.
 
 2. Follow the general setup [guide](https://mdst-club.notion.site/General-Setup-Guide-f801e1c932e440ab8387330b41fcbe77).
 
-3. Complete the Git setup [guide](https://www.notion.so/mdst-club/Git-Setup-Guide-fa635f302a74491fb018892cd1da4697).
+3. Complete the tutorials and checkpoints(More details in next section)
 
+4. Follow the Git setup [guide](https://www.notion.so/mdst-club/Git-Setup-Guide-fa635f302a74491fb018892cd1da4697).
 
 Workflow Explained:
-Downloading relevant files to your machine(1) -> Complete setup and start working on tutorials/checkpoints(2) -> Using git to push your code to GitHub, completing your submission(3)
+Downloading relevant files to your machine(1) -> Complete setup and start working on tutorials/checkpoints(2,3) -> Using git to push your code to GitHub(4)
 
-
-
-For most people, (3) is the _hardest_ part of the tutorial! If you feel frustrated, know it is normal. Come see us at tutorials or office hours and we will help you out.
+For most people, (4) is the _hardest_ part of the tutorial! If you feel frustrated, know it is normal. Come see us at tutorials or office hours and we will help you out.
 
 ### What do I do if I cannot get the setup working in time?
 
-If you have trouble with the general setup, you can follow the Google Colab setup [guide](https://docs.google.com/document/d/14ely7Xi_r1AFLAsMrKuHHcwqgAMnWV4QrbnK_uTJzYc/edit?usp=sharing) and use Colab to complete the tutorials.
+If you have trouble with the _General Setup_, you can follow the Google Colab setup [guide](https://docs.google.com/document/d/14ely7Xi_r1AFLAsMrKuHHcwqgAMnWV4QrbnK_uTJzYc/edit?usp=sharing) and use Colab to complete the tutorials.
 
-You can also use [deepnote](https://deepnote.com/) or [hex](https://hex.tech/). For the later, you _must not_ sign up with your umich.edu email address.
-
-If you have trouble with the Git setup, you can upload your files to Git by going to your GitHub repository and do `Add file` -> `Upload files`.
+If you have trouble with the _Git Setup_, you can upload your files to Git by going to your GitHub repository and do `Add file` -> `Upload files`.
 
 ## Tutorials & Checkpoints
 
@@ -44,11 +41,11 @@ These checkpoints are _not_ meant to be selective. Their sole purpose is to give
 
 The definition of success for us is to have everyone who begins the tutorials finish them. Thus, we will offer support in two ways:
 
--   Tutorials: This year we will have one single live tutorial introducing the Command Line, Python, and its related packages. The Tutorial will be a combination of short presentations and Q&A.
+-   Tutorials: This year we will host one live tutorial introducing the Command Line, Python, and its related packages. The Tutorial will be a combination of short presentations and Q&A.
 
--  Office Hours: We will be offering 2 office hours in-person for you to come ask questions and receive feedbacks.
+-   Office Hours: We will be offering 2 office hours in-person for you to come ask questions and receive feedbacks.
 
-The exact date, time, and location of the tutorials and office hours can be found in the onboarding resource website [here](https://mdst-club.notion.site/MDST-Onboarding-3d1b3591dd224115a548325a7d66a723)
+The exact date, time, and location of the tutorials and office hours can be found on the onboarding resource website [here](https://mdst-club.notion.site/MDST-Onboarding-3d1b3591dd224115a548325a7d66a723)
 
 Neither tutorials nor office hours are mandatory.
 
@@ -56,13 +53,16 @@ We have also created a [forum](https://edstem.org/us/join/jxVrDG) where you can 
 
 ## Submission
 
-The tutorial submission form will be released soon.
+**Tutorials due: 9/16/2024**
 
-In your submission, make sure to select the option saying you are new a member, and submit the link to your repository containing all your tutorial checkpoints. We are looking for:
+Your final submission will be a link to your GitHub repo that contains all your completed tutorials and checkpoints.
+
+Submission form will be released after tutorials due.
+
+We are looking for:
 
 -   [**REQUIRED**] checkpoint 0 and checkpoint 1. These are assessed by completion and effort, not accuracy.
--   [**OPTIONAL**] There are three challenges available to you: Machine Learning, Deep Learning, and RvF. These are assessed by merit. We usually put new members on beginning projects for their very first semester but you may want to work on advanced projects right away if you are experienced with data science. You will be able to demonstrate said experience in these challenges. You can choose to complete any one or multiple of them. 
-
+-   [**OPTIONAL**] There are three challenges available to you: Machine Learning, Deep Learning, and RvF. These are assessed by merit. We usually put new members on beginning projects for their very first semester but you may want to work on advanced projects right away if you are experienced with data science. You will be able to demonstrate said experience in these challenges. You can choose to complete any one or multiple of them.
 
 It is strongly recommended for you to complete at least one challenge if the project you are most interested in is labelled as an advanced project. This will give you the best chance to be placed on that team.
 
