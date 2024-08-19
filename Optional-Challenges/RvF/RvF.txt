@@ -1,0 +1,2 @@
+Due to the size of data files of RvF, we decided to put this challenge in a different repo: 
+https://github.com/MichiganDataScienceTeam/RvF-Challenge
