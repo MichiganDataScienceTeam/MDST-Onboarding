@@ -26,15 +26,13 @@ If you have trouble with the _Git Setup_, you can upload your files to Git by go
 
 Get started with `tutorial0` and `checkpoint0` in the `tutorial0` folder and then move on to `tutorial1` and `checkpoint1` in the `tutorial1` folder. We recommend working through each tutorial before attempting the corresponding checkpoint.
 
-The challenges in the `Optional Challenges` folder are completely optional. You will find instructions about them in the submission section.
-
 The `Data-Visualization` folder contains materials for those who want to get a head start. `pandas.ipynb` is a very brief introduction to internal Pandas data visualization tools. The `AnatomyofMatplotlib` folder contains a comprehensive tutorial for the Matplotlib library, which most beginner projects use and is foundational to other data visualization packages such as `seaborn`.
 
 ## Challenges (Optional)
 
-There are three challenges available to you: Machine Learning, Deep Learning, and RvF. They are located in three seperate folders and your code will be needed in the notebooks ending in `.ipynb`.
+There are three optional challenges available to you: Machine Learning, Deep Learning, and RvF. They are located in three seperate folders under `Optional-Challenges` and your code will be needed in the notebooks ending in `.ipynb`.
 
-You can choose to complete any one or multiple of them. We usually put new members on beginner or intermediate projects for their very first semester but you may want to work on advanced projects right away if you are experienced with data science. In that case, completion of at least one challenge will be required.
+You can choose to complete any one or multiple of them. We usually put new members on beginner or intermediate projects for their very first semester but you may want to work on advanced projects right away if you are experienced with data science. In that case, completion of **at least one** challenge will be required.
 
 ### Themes:
 
@@ -50,7 +48,7 @@ These checkpoints are _not_ meant to be selective. Their sole purpose is to give
 
 The definition of success for us is to have everyone who begins the tutorials finish them. Thus, we will offer support in two ways:
 
--   Tutorials: This year we will host one live tutorial introducing the Command Line, Python, and its related packages. The Tutorial will be a combination of short presentations and Q&A.
+-   Tutorials: We will host one live tutorial introducing the Command Line, Python, and its related packages. The session will be a combination of short presentations and Q&A.
 
 -   Office Hours: We will be offering 2 office hours in-person for you to come ask questions and receive feedbacks.
 
