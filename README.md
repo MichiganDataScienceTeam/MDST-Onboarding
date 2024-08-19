@@ -12,14 +12,9 @@ If you haven't already, fill out this [form](https://forms.gle/pcpfjMwrXobyvn9N9
 
 2. Follow the general setup [guide](https://mdst-club.notion.site/General-Setup-Guide-f801e1c932e440ab8387330b41fcbe77).
 
-3. Complete the tutorials and checkpoints(More details in next section)
+3. Follow the Git setup [guide](https://www.notion.so/mdst-club/Git-Setup-Guide-fa635f302a74491fb018892cd1da4697).
 
-4. Follow the Git setup [guide](https://www.notion.so/mdst-club/Git-Setup-Guide-fa635f302a74491fb018892cd1da4697).
-
-Workflow Explained:
-Downloading relevant files to your machine(1) -> Complete setup and start working on tutorials/checkpoints(2,3) -> Using git to push your code to GitHub(4)
-
-For most people, (4) is the _hardest_ part of the tutorial! If you feel frustrated, know it is normal. Come see us at tutorials or office hours and we will help you out.
+For most people, (3) is the _hardest_ part of the tutorial! If you feel frustrated, know it is normal. Come see us at tutorials or office hours and we will help you out.
 
 ### What do I do if I cannot get the setup working in time?
 
@@ -34,6 +29,20 @@ Get started with `tutorial0` and `checkpoint0` in the `tutorial0` folder and the
 The challenges in the `Optional Challenges` folder are completely optional. You will find instructions about them in the submission section.
 
 The `Data-Visualization` folder contains materials for those who want to get a head start. `pandas.ipynb` is a very brief introduction to internal Pandas data visualization tools. The `AnatomyofMatplotlib` folder contains a comprehensive tutorial for the Matplotlib library, which most beginner projects use and is foundational to other data visualization packages such as `seaborn`.
+
+## Challenges (Optional)
+
+There are three challenges available to you: Machine Learning, Deep Learning, and RvF. They are located in three seperate folders and your code will be needed in the notebooks ending in `.ipynb`.
+
+You can choose to complete any one or multiple of them. We usually put new members on beginner or intermediate projects for their very first semester but you may want to work on advanced projects right away if you are experienced with data science. In that case, completion of at least one challenge will be required.
+
+### Themes:
+
+Machine Learning - Loan Approval Prediction
+
+Deep Learning - Titanic
+
+RvF - Computer Vision: Fake Face Detection
 
 ## How we are supporting you
 
@@ -53,18 +62,16 @@ We have also created a [forum](https://edstem.org/us/join/jxVrDG) where you can 
 
 ## Submission
 
-**Tutorials due: 9/16/2024**
+**Due: 9/16/2024 11:59pm EST**
 
-Your final submission will be a link to your GitHub repo that contains all your completed tutorials and checkpoints.
+Your final submission will be a link to your GitHub repo that contains all your completed work.
 
-Submission form will be released after tutorials due.
+Submission form will be released soon.
 
 We are looking for:
 
--   [**REQUIRED**] checkpoint 0 and checkpoint 1. These are assessed by completion and effort, not accuracy.
--   [**OPTIONAL**] There are three challenges available to you: Machine Learning, Deep Learning, and RvF. These are assessed by merit. We usually put new members on beginning projects for their very first semester but you may want to work on advanced projects right away if you are experienced with data science. You will be able to demonstrate said experience in these challenges. You can choose to complete any one or multiple of them.
-
-It is strongly recommended for you to complete at least one challenge if the project you are most interested in is labelled as an advanced project. This will give you the best chance to be placed on that team.
+-   [**REQUIRED**] Checkpoint 0 and Checkpoint 1. These are assessed by completion and effort, not accuracy.
+-   [**OPTIONAL**] Any additional challenges you completed. These are assessed by merit.
 
 ## Contact
 
