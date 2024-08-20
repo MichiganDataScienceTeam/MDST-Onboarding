@@ -28,6 +28,8 @@ Get started with `tutorial0` and `checkpoint0` in the `tutorial0` folder and the
 
 The `Data-Visualization` folder contains materials for those who want to get a head start. `pandas.ipynb` is a very brief introduction to internal Pandas data visualization tools. The `AnatomyofMatplotlib` folder contains a comprehensive tutorial for the Matplotlib library, which most beginner projects use and is foundational to other data visualization packages such as `seaborn`.
 
+We also highly recommend you looking into Python virtual environments. You can do this at the beginning or after you complete the checkpoints. Our members have made resources explaining it [here](https://www.notion.so/mdst-club/Python-Virtual-Environment-2afafcef293f4f6ca03cec867a51fe4f).
+
 ## Challenges (Optional)
 
 There are three optional challenges available to you: Machine Learning, Deep Learning, and RvF. They are located in three seperate folders under `Optional-Challenges` and your code will be needed in the notebooks ending in `.ipynb`.
