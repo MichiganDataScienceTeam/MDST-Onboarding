@@ -24,7 +24,7 @@ If you have trouble with the _Git Setup_, you can upload your files to Git by go
 
 ## Tutorials & Checkpoints
 
-Get started with `tutorial0` and `checkpoint0` in the `tutorial0` folder and then move on to `tutorial1` and `checkpoint1` in the `tutorial1` folder. We recommend working through each tutorial before attempting the corresponding checkpoint.
+Get started with `tutorial0` and `checkpoint0` in the `tutorial0` folder and then move on to `tutorial1` and `checkpoint1` in the `tutorial1` folder. We recommend working through each tutorial before attempting the corresponding checkpoint. However, if you have prior experience, feel free to skip part of or entire tutorial.
 
 The `Data-Visualization` folder contains materials for those who want to get a head start. `pandas.ipynb` is a very brief introduction to internal Pandas data visualization tools. The `AnatomyofMatplotlib` folder contains a comprehensive tutorial for the Matplotlib library, which most beginner projects use and is foundational to other data visualization packages such as `seaborn`.
 
