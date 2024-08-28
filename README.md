@@ -4,6 +4,8 @@
 
 Check out our onboarding website with centralized resources [here](https://mdst-club.notion.site/MDST-Onboarding-3d1b3591dd224115a548325a7d66a723)!
 
+Our FALL 24 Project Lists [here](https://mdst-club.notion.site/Fall-2024-Project-Directory-734d91c7dd6f4991b98eef461504a1eb)!
+
 ## Setup
 
 If you haven't already, fill out this [form](https://forms.gle/pcpfjMwrXobyvn9N9) and join our mailing list. This will keep you up-to-date on the club.
