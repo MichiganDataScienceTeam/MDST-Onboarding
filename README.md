@@ -6,6 +6,8 @@ Check out our onboarding website with centralized resources [here](https://mdst-
 
 Our FALL 24 Project Lists [here](https://mdst-club.notion.site/Fall-2024-Project-Directory-734d91c7dd6f4991b98eef461504a1eb)!
 
+If there are any issues or areas of improvement you would like us to know, please create a new entry in "Issues" 
+
 ## Setup
 
 If you haven't already, fill out this [form](https://forms.gle/pcpfjMwrXobyvn9N9) and join our mailing list. This will keep you up-to-date on the club.
@@ -80,6 +82,7 @@ We are looking for:
 All technical or logistical questions MUST be posted on the ED forum. We will not answer those questions over email.
 
 If you have a personal question, email us at mdst-education@umich.edu.
+
 
 ## Official Documentations
 
