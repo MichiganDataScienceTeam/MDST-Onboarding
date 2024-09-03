@@ -1,0 +1,13 @@
+ipykernel
+ipython
+jupyter_client
+jupyter_core
+matplotlib
+matplotlib-inline
+numpy
+pandas
+scikit-learn
+scipy
+seaborn
+torch
+tqdm
