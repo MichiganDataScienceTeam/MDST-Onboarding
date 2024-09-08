@@ -68,9 +68,7 @@ We have also created a [forum](https://edstem.org/us/join/jxVrDG) where you can 
 
 **Due: 9/16/2024 11:59pm EST**
 
-Your final submission will be a link to your GitHub repo that contains all your completed work.
-
-Submission form will be released soon.
+Submit a link to your GitHub repo that contains all your completed work when you sign up for projects: [project signup form](https://docs.google.com/forms/d/e/1FAIpQLSeyuYCGT9vpQjuhMXVLweal4m4EmbQEgi6sFfObeMIGiq_sbQ/viewform)
 
 We are looking for:
 
