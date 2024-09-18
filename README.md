@@ -75,6 +75,8 @@ We are looking for:
 -   [**REQUIRED**] Checkpoint 0 and Checkpoint 1. These are assessed by completion and effort, not accuracy.
 -   [**OPTIONAL**] Any additional challenges you completed. These are assessed by merit.
 
+Please make sure you link works. Due to the immense application volume we will not be sending out emails if your link is invalid. They will be automatic filtered.
+
 ## Contact
 
 All technical or logistical questions MUST be posted on the ED forum. We will not answer those questions over email.
