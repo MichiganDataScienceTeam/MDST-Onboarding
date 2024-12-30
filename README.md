@@ -1,6 +1,6 @@
 ![header](https://github.com/MichiganDataScienceTeam/MDST-Tutorials/blob/main/asset/header.png?raw=true)
 
-# MDST Tutorials - FA24
+# MDST Tutorials - WN25
 
 ### Check out our onboarding website with centralized resources [here](https://mdst-club.notion.site/MDST-Onboarding-3d1b3591dd224115a548325a7d66a723)!
 
@@ -66,16 +66,14 @@ We have also created a [forum](https://edstem.org/us/join/jxVrDG) where you can 
 
 ## Submission
 
-**Due: 9/16/2024 11:59pm EST**
+**Due: 01/24/2024 11:59pm EST**
 
-Submit a link to your GitHub repo that contains all your completed work when you sign up for projects: [project signup form](https://docs.google.com/forms/d/e/1FAIpQLSeyuYCGT9vpQjuhMXVLweal4m4EmbQEgi6sFfObeMIGiq_sbQ/viewform)
+Submission will open soon...
 
 We are looking for:
 
 -   [**REQUIRED**] Checkpoint 0 and Checkpoint 1. These are assessed by completion and effort, not accuracy.
 -   [**OPTIONAL**] Any additional challenges you completed. These are assessed by merit.
-
-Please make sure you link works. Due to the immense application volume we will not be sending out emails if your link is invalid. They will be automatically filtered.
 
 ## Contact
 
