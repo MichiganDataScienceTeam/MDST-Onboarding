@@ -1,6 +1,6 @@
 ![header](https://github.com/MichiganDataScienceTeam/MDST-Tutorials/blob/main/asset/header.png?raw=true)
 
-# MDST Tutorials - WN25
+# MDST Tutorials - FA24
 
 ### Check out our onboarding website with centralized resources [here](https://mdst-club.notion.site/MDST-Onboarding-3d1b3591dd224115a548325a7d66a723)!
 
