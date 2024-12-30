@@ -66,7 +66,7 @@ We have also created a [forum](https://edstem.org/us/join/jxVrDG) where you can 
 
 ## Submission
 
-**Due: 01/24/2024 11:59pm EST**
+**Due: 01/24/2025 11:59pm EST**
 
 Submission will open soon...
 
