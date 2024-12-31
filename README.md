@@ -68,7 +68,11 @@ We have also created a [forum](https://edstem.org/us/join/jxVrDG) where you can 
 
 **Due: 01/24/2025 11:59pm EST**
 
-Submission will open soon...
+Submit your completed checkpoints [here](https://mdst-submission.azurewebsites.net/login/).
+
+1. Login with your UM Email
+2. Upload link to your GitHub
+3. Upload checkpoint jupyter notebook files
 
 We are looking for:
 
