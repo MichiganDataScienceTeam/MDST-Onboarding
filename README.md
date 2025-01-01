@@ -71,13 +71,15 @@ We have also created a [forum](https://edstem.org/us/join/jxVrDG) where you can 
 Submit your completed checkpoints [here](https://mdst-submission.azurewebsites.net/login/).
 
 1. Login with your UM Email
-2. Upload link to your GitHub
+2. Update link to your GitHub
 3. Upload checkpoint jupyter notebook files
 
 We are looking for:
 
 -   [**REQUIRED**] Checkpoint 0 and Checkpoint 1. These are assessed by completion and effort, not accuracy.
 -   [**OPTIONAL**] Any additional challenges you completed. These are assessed by merit.
+
+*You don't need to upload your challenge files directly, we will use your GitHub link to look through them. 
 
 ## Contact
 
