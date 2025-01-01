@@ -4,13 +4,11 @@
 
 ### Check out our onboarding website with centralized resources [here](https://mdst-club.notion.site/MDST-Onboarding-3d1b3591dd224115a548325a7d66a723)!
 
-Our FALL 24 Project Lists [here](https://mdst-club.notion.site/Fall-2024-Project-Directory-734d91c7dd6f4991b98eef461504a1eb)!
-
 If there are any issues or areas of improvement you would like us to know, please create a new entry in "Issues" 
 
 ## Setup
 
-If you haven't already, fill out this [form](https://forms.gle/pcpfjMwrXobyvn9N9) and join our mailing list. This will keep you up-to-date on the club.
+If you haven't already, fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSe0kGexorGyJScrIcAuoYBKd62owD9XScJbcqxLR0PVBMBlcA/viewform) and join our mailing list. This will keep you up-to-date on the club.
 
 1. Download the files in this repo by clicking `Code` (the green button near the top) -> `Download ZIP` and unzip the files into a folder. You can of course also fork the repo if you have experience with Git.
 
@@ -52,17 +50,11 @@ RvF - Computer Vision: Fake Face Detection
 
 These checkpoints are _not_ meant to be selective. Their sole purpose is to give you sufficient foundational knowledge about Python and some important packages so you can start contributing to a project.
 
-The definition of success for us is to have everyone who begins the tutorials finish them. Thus, we will offer support in two ways:
+The definition of success for us is to have everyone who begins the tutorials finish them. Thus, we will offering support with Office Hours 
 
--   Tutorials: We will host one live tutorial introducing the Command Line, Python, and its related packages. The session will be a combination of short presentations and Q&A.
+* OHs are not mandatory
 
--   Office Hours: We will be offering 2 office hours in-person for you to come ask questions and receive feedbacks.
-
-The exact date, time, and location of the tutorials and office hours can be found on the onboarding resource website [here](https://mdst-club.notion.site/MDST-Onboarding-3d1b3591dd224115a548325a7d66a723)
-
-Neither tutorials nor office hours are mandatory.
-
-We have also created a [forum](https://edstem.org/us/join/jxVrDG) where you can ask questions.
+We have also created a [forum](https://edstem.org/us/join/Mx3ut8) where you can ask questions.
 
 ## Submission
 
