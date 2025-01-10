@@ -60,7 +60,8 @@ We have also created a [forum](https://edstem.org/us/join/Mx3ut8) where you can 
 
 **Due: 01/24/2025 11:59pm EST**
 
-Submit your completed checkpoints [here](https://mdst-submission.azurewebsites.net/login/).
+<!-- Submit your completed checkpoints [here](https://mdst-submission.azurewebsites.net/login/). -->
+Submit your completed checkpoints: Submission Opens Soon
 
 1. Login with your UM Email
 2. Update link to your GitHub
