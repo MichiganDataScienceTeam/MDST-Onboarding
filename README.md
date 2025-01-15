@@ -71,7 +71,7 @@ We are looking for:
 -   [**REQUIRED**] Checkpoint 0 and Checkpoint 1. These are assessed by completion and effort, not accuracy.
 -   [**OPTIONAL**] Any additional challenges you completed. These are assessed by merit.
 
-*You don't need to upload your challenge files directly, we will use your GitHub link to look through them. 
+*If you completed the optional challenges, we will use your GitHub link to look through them. 
 
 ## Contact
 
