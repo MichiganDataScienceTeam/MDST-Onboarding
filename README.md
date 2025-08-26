@@ -8,7 +8,7 @@ If there are any issues or areas of improvement you would like us to know, pleas
 
 ## Setup
 
-If you haven't already, fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSe0kGexorGyJScrIcAuoYBKd62owD9XScJbcqxLR0PVBMBlcA/viewform) and join our mailing list. This will keep you up-to-date on the club.
+If you haven't already, fill out this [form](https://forms.gle/eAtrkJsYG1KW8yLZA) and join our mailing list. This will keep you up-to-date on the club.
 
 1. Download the files in this repo by clicking `Code` (the green button near the top) -> `Download ZIP` and unzip the files into a folder. You can of course also fork the repo if you have experience with Git.
 
@@ -54,17 +54,21 @@ The definition of success for us is to have everyone who begins the tutorials fi
 
 * OHs are not mandatory
 
-We have also created a [forum](https://edstem.org/us/join/Mx3ut8) where you can ask questions.
+Tutorial Overview (9/5, 6-7 PM)
+TBD
+
+Office Hours #1 (9/9, 6-8 PM) 
+2448 MH (booked 6-8 PM)
+
+Office Hours #2 (9/12, 5-7 PM) 
+2448 MH (booked 5-7 PM)
+
 
 ## Submission
 
-**Due: 01/24/2025 11:59pm EST**
+**Due: 09/15/2025 11:59pm EST**
 
-Submit your completed checkpoints [here](https://mdst-submission.azurewebsites.net/login/)。
-
-1. Login with your UM Email
-2. Update link to your GitHub
-3. Upload checkpoint jupyter notebook files
+Submitting checkpoints: TBD
 
 We are looking for:
 
