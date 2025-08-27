@@ -8,7 +8,7 @@ If there are any issues or areas of improvement you would like us to know, pleas
 
 ## Setup
 
-If you haven't already, fill out this [form](https://forms.gle/eAtrkJsYG1KW8yLZA) and join our mailing list. This will keep you up-to-date on the club.
+If you haven't already, fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLScWowsKmEHkGCFQl-IM36JCPknYVdHxKoKFn_ClubupgdaYSg/viewform?usp=header) and join our mailing list. This will keep you up-to-date on the club.
 
 1. Download the files in this repo by clicking `Code` (the green button near the top) -> `Download ZIP` and unzip the files into a folder. You can of course also fork the repo if you have experience with Git.
 
