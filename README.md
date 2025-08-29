@@ -68,7 +68,7 @@ Office Hours #2 (9/12, 5-7 PM)
 
 **Due: 09/15/2025 11:59pm EST**
 
-Submitting checkpoints: TBD
+Submitting checkpoints: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfalQJnQ9-05xu0drsPsn7aKMYD9Xe9caCjRj87S1HCsH69EQ/viewform?usp=header)
 
 We are looking for:
 
