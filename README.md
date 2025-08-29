@@ -55,13 +55,13 @@ The definition of success for us is to have everyone who begins the tutorials fi
 * OHs are not mandatory
 
 Tutorial Overview (9/5, 6-7 PM)
-TBD
+2448 MH
 
 Office Hours #1 (9/9, 6-8 PM) 
-2448 MH (booked 6-8 PM)
+2448 MH 
 
 Office Hours #2 (9/12, 5-7 PM) 
-2448 MH (booked 5-7 PM)
+2448 MH 
 
 
 ## Submission
