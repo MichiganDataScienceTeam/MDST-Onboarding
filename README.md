@@ -69,7 +69,7 @@ Office Hours #2 (1/19, 6-8 PM)
 
 **Due: 01/20/2026 11:59pm EST**
 
-Submitting checkpoints: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfalQJnQ9-05xu0drsPsn7aKMYD9Xe9caCjRj87S1HCsH69EQ/viewform?usp=header)
+Submitting checkpoints: [Google Form](https://forms.gle/bwbyWsrkBURUzBDD7)
 
 We are looking for:
 
