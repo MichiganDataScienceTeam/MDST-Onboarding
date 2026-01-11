@@ -1,6 +1,6 @@
 ![header](https://github.com/MichiganDataScienceTeam/MDST-Tutorials/blob/main/asset/header.png?raw=true)
 
-# MDST Tutorials - FA25
+# MDST Tutorials - W26
 
 ## CURRENT SETUP DOES NOT SEEM TO BE WORKING RIGHT NOW: please try to follow this setup [new_setup](https://docs.google.com/document/d/1XvD_PHtKWsCrNZ8PWdgrxzh0Yc4L6J7cnEEWAqhS7jw/edit?tab=t.0)
 
@@ -56,19 +56,16 @@ The definition of success for us is to have everyone who begins the tutorials fi
 
 * OHs are not mandatory
 
-Tutorial Overview (9/5, 6-7 PM)
-2448 MH
+Office Hours #1 (1/13, 6-8 PM) 
+3302 Mason Hall
 
-Office Hours #1 (9/9, 6-8 PM) 
-2448 MH 
-
-Office Hours #2 (9/12, 5-7 PM) 
-2448 MH 
+Office Hours #2 (1/19, 6-8 PM) 
+2407 Mason Hall
 
 
 ## Submission
 
-**Due: 09/15/2025 11:59pm EST**
+**Due: 01/20/2026 11:59pm EST**
 
 Submitting checkpoints: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfalQJnQ9-05xu0drsPsn7aKMYD9Xe9caCjRj87S1HCsH69EQ/viewform?usp=header)
 
