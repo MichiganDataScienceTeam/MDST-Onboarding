@@ -14,9 +14,13 @@ If you haven't already, fill out this [form](https://docs.google.com/forms/d/e/1
 
 1. Download the files in this repo by clicking `Code` (the green button near the top) -> `Download ZIP` and unzip the files into a folder. You can of course also fork the repo if you have experience with Git.
 
-2. Follow the general setup [guide](https://mdst-club.notion.site/General-Setup-Guide-f801e1c932e440ab8387330b41fcbe77).
+2. Follow the general guide setup [new_setup](https://docs.google.com/document/d/1XvD_PHtKWsCrNZ8PWdgrxzh0Yc4L6J7cnEEWAqhS7jw/edit?tab=t.0)
 
-3. Follow the Git setup [guide](https://www.notion.so/mdst-club/Git-Setup-Guide-fa635f302a74491fb018892cd1da4697).
+Notes: if you find yourself unable to follow the general guide, refer to some of these which are older setups guides
+
+3. Follow the general setup [guide](https://mdst-club.notion.site/General-Setup-Guide-f801e1c932e440ab8387330b41fcbe77).
+
+4. Follow the Git setup [guide](https://www.notion.so/mdst-club/Git-Setup-Guide-fa635f302a74491fb018892cd1da4697).
 
 For most people, (3) is the _hardest_ part of the tutorial! If you feel frustrated, know it is normal. Come see us at tutorials or office hours and we will help you out.
 
