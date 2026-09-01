@@ -59,10 +59,10 @@ The definition of success for us is to have everyone who begins the tutorials fi
 * OHs are not mandatory
 
 Office Hours #1 (9/10, 6-8 PM) 
-3302 Mason Hall
+3353 Mason Hall
 
 Office Hours #2 (9/20, 11AM - 1PM) 
-2407 Mason Hall
+3330 Mason Hall
 
 
 ## Submission
