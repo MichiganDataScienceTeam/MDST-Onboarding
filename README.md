@@ -54,20 +54,20 @@ RvF - Computer Vision: Fake Face Detection
 
 These checkpoints are _not_ meant to be selective. Their sole purpose is to give you sufficient foundational knowledge about Python and some important packages so you can start contributing to a project.
 
-The definition of success for us is to have everyone who begins the tutorials finish them. Thus, we will offering support with Office Hours 
+The definition of success for us is to have everyone who begins the tutorials finish them. Thus, we will be offering support with Office Hours 
 
 * OHs are not mandatory
 
-Office Hours #1 (1/13, 6-8 PM) 
+Office Hours #1 (9/10, 6-8 PM) 
 3302 Mason Hall
 
-Office Hours #2 (1/19, 6-8 PM) 
+Office Hours #2 (9/20, 11AM - 1PM) 
 2407 Mason Hall
 
 
 ## Submission
 
-**Due: 01/20/2026 11:59pm EST**
+**Due: 9/21/2026 11:59pm EST**
 
 Submitting checkpoints: [Google Form](https://forms.gle/bwbyWsrkBURUzBDD7)
 
