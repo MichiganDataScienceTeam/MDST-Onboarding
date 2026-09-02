@@ -52,7 +52,7 @@ RvF - Computer Vision: Fake Face Detection
 
 ## How we are supporting you
 
-These checkpoints are _not_ meant to be selective. Their sole purpose is to give you sufficient foundational knowledge about Python and some important packages so you can start contributing to a project.
+These checkpoints are _not_ designed to be selective. Their sole purpose is to give you sufficient foundational knowledge about Python and some important packages so you can start contributing to a project. Note that this semester, we may restrict the number of new members we accept due to project size limits, so try your best on these!
 
 The definition of success for us is to have everyone who begins the tutorials finish them. Thus, we will be offering support with Office Hours 
 
@@ -69,11 +69,11 @@ Office Hours #2 (9/20, 11AM - 1PM)
 
 **Due: 9/21/2026 11:59pm EST**
 
-Submitting checkpoints: [Google Form](https://forms.gle/bwbyWsrkBURUzBDD7)
+Submitting checkpoints: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfJ2M5rDR_G0guD9YzTnA5wOmbN7vYXFrZdsvS0VDP2v6qPkg/viewform?usp=sharing&ouid=105874256039052193076)
 
 We are looking for:
 
--   [**REQUIRED**] Checkpoint 0 and Checkpoint 1. These are assessed by completion and effort, not accuracy.
+-   [**REQUIRED**] Checkpoint 0 and Checkpoint 1. These will be assessed based on ACCURACY this semester due to limited project spots. Don't worry, there are many spots available!
 -   [**OPTIONAL**] Any additional challenges you completed. These are assessed by merit.
 
 *If you completed the optional challenges, we will use your GitHub link to look through them. 
