@@ -2,7 +2,8 @@
 
 # MDST Tutorials - F26
 
-### Check out our onboarding website with centralized resources [here](https://mdst-club.notion.site/MDST-Onboarding-3d1b3591dd224115a548325a7d66a723)! NOTE: this website contains all the guides for onboarding, but it does NOT contain the updated project list, as we are currently migrating to our own website for that.
+### Check out our onboarding website with centralized resources [here](https://mdst-club.notion.site/MDST-Onboarding-3d1b3591dd224115a548325a7d66a723)! 
+NOTE: this website contains all the guides for onboarding, but it does NOT contain the updated project list, as we are currently migrating to our own website for that.
 
 If there are any issues or areas of improvement you would like us to know, please create a new entry in "Issues" 
 
